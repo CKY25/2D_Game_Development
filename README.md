@@ -11,4 +11,5 @@ Special Features:</br>
 ⦁ Cheat mode features by pressing '~' key and type in help for information. </br>
 ⦁ Mini map that allows player to see where are the monsters at.
 
-Here is the link to the project: https://drive.google.com/file/d/11LsHP4PbmyBOpF0NswJLQipkFWiZOqzY/view?usp=sharing
+Here is the link to the project: https://drive.google.com/file/d/11LsHP4PbmyBOpF0NswJLQipkFWiZOqzY/view?usp=sharing </br>
+Video demo: https://drive.google.com/file/d/1-EicgbQsuZ9jgEM12AZOI3lbVRoKgsaF/view?usp=sharing
